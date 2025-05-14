@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Harshvardhan Sahay</h1>
 <p align="center">
   🚀 Developer | 💡 Tech Enthusiast | 📘 Lifelong Learner
 </p>
@@ -7,12 +7,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on: **[Your Project or Goal]**
-- 🌱 I’m currently learning: **[Tech stack or concept you're learning]**
-- 💬 Ask me about: **[Topics you’re good at or enjoy]**
-- 📫 How to reach me: [your-email@example.com] or [LinkedIn/Twitter link]
-- 😄 Pronouns: he/him, she/her, they/them, etc.
-- ⚡ Fun fact: *[Something quirky or interesting]*
+- 🔭 I’m currently working on: Multiple Projects
+- 🌱 I’m currently learning: React
+- 💬 Ask me about: Phones
+- 📫 How to reach me: sahayharshvardhan@gmail.com or https://tinyurl.com/HarshVSG
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: GTA 6 will have weapons
 
 ---
 
